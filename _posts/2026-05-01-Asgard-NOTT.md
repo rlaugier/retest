@@ -1,9 +1,9 @@
 ---
 title: Asgard/NOTT, the first Nuller of the VLTI
-author: Romain
 date: 2026-05-01
 categories: [Research themes, Fundamental instrumentation]
 tags: [instrument, nulling, exoplanets]
+author: romain
 render_with_liquid: false
 math: true
 ---
